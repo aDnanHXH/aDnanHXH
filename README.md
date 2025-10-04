@@ -15,14 +15,12 @@
 
 <hr/>
 
-## 🌐 Connect & ⚡ Skills
+## Connect & Skills
 
 <table width="100%">
   <tr>
     <!-- Left: Connect -->
     <td align="center" width="50%" valign="middle" style="border-right: 5px solid #0e75b6; padding: 20px;">
-
-  <h3>🌐 Connect</h3>
 
   <p>
     <a href="https://linkedin.com/in/adnan-mkahal" target="_blank" title="LinkedIn">
@@ -43,8 +41,6 @@
 
 <!-- Right: Skills -->
 <td align="center" width="50%" valign="middle" style="padding: 20px;">
-
-  <h3>⚡ Skills</h3>
 
   <!-- Frontend -->
   <p>
