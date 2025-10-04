@@ -23,7 +23,7 @@
     <td align="center" width="50%" valign="middle" style="border-right: 5px solid #0e75b6; padding: 25px;">
 
   <p>
-    <a href="https://linkedin.com/in/adnan-mkahal" target="_blank">
+    <a href="https://www.linkedin.com/in/adnan-mkahal-90578731b/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" height="64" style="margin:15px;" />
     </a>
     <a href="https://instagram.com/u6dln" target="_blank">
