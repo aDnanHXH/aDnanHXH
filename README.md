@@ -17,50 +17,80 @@
 
 ### Connect & Skills
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<table width="100%">
+<tr>
+<td align="center" width="35%" valign="top">
 
-<div align="center">
-  
-**Connect**  
-<br>
+<b>Connect</b>  
+<br><br>
+
 <a href="https://linkedin.com/in/adnan mkahal" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/><br>LinkedIn
 </a>
+<br><br>
+
 <a href="https://instagram.com/u6dln" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="45"/><br>Instagram
 </a>
+<br><br>
+
 <a href="https://discord.gg/k3sm" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"/>
+  <img src="https://skillicons.dev/icons?i=discord" height="45"/><br>Discord
 </a>
+<br><br>
+
 <a href="mailto:adnan.pls2003@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/><br>Email
 </a>
 
-</div>
+</td>
+<td align="center" width="65%" valign="top">
 
-<div align="center">
-  
-**Languages & Tools**  
+<b>Languages & Tools</b>  
+<br><br>
+
+<!-- Frontend -->
+<sub><b>Frontend</b></sub>  
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,git,figma,python,java,php,mysql,linux,c,cpp,flask,wordpress" />
+<img src="https://skillicons.dev/icons?i=html" height="45"/> 
+<img src="https://skillicons.dev/icons?i=css" height="45"/> 
+<img src="https://skillicons.dev/icons?i=js" height="45"/> 
+<img src="https://skillicons.dev/icons?i=react" height="45"/> 
+<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+<br><br>
 
-</div>
+<!-- Backend -->
+<sub><b>Backend</b></sub>  
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/> 
+<img src="https://skillicons.dev/icons?i=php" height="45"/> 
+<img src="https://skillicons.dev/icons?i=flask" height="45"/> 
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<br><br>
 
-</div>
+<!-- CMS & Design -->
+<sub><b>CMS & Design</b></sub>  
+<br>
+<img src="https://skillicons.dev/icons?i=wordpress" height="45"/> 
+<img src="https://skillicons.dev/icons?i=figma" height="45"/>
+<br><br>
+
+<!-- Core & Tools -->
+<sub><b>Core & Tools</b></sub>  
+<br>
+<img src="https://skillicons.dev/icons?i=git" height="45"/> 
+<img src="https://skillicons.dev/icons?i=linux" height="45"/> 
+<img src="https://skillicons.dev/icons?i=python" height="45"/> 
+<img src="https://skillicons.dev/icons?i=java" height="45"/> 
+<img src="https://skillicons.dev/icons?i=c" height="45"/> 
+<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### Certifications
-- [**Build Responsive Real-World Websites with HTML and CSS**](https://ude.my/UC-589f2c99-0f48-4a44-b3a9-b06efd6cd8ea) – *Jonas Schmedtmann, Udemy*  
-  Completed: Dec 28, 2024  
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/0000000/your_uploaded_image.png" alt="HTML & CSS Certificate" width="500"/>
-</p>
 
 ---
-
-### Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aDnanHXH/aDnanHXH/output/snake.svg" alt="Snake animation" />
-</p>
