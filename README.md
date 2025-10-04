@@ -16,14 +16,13 @@
 ---
 
 ### Connect & Skills
+
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+
 <div align="center">
-
-<table style="border: 2px solid #ccc; border-collapse: collapse;">
-<tr>
-<td align="center" width="50%" style="border: 2px solid #ccc; padding: 15px;">
-
-<b>Connect</b>  
-<br><br>
+  
+**Connect**  
+<br>
 <a href="https://linkedin.com/in/adnan mkahal" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
 </a>
@@ -37,16 +36,15 @@
   <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
 </a>
 
-</td>
-<td align="center" width="50%" style="border: 2px solid #ccc; padding: 15px;">
+</div>
 
-<b>Languages & Tools</b>  
-<br><br>
+<div align="center">
+  
+**Languages & Tools**  
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,git,figma,python,java,php,mysql,linux,c,cpp,flask,wordpress" />
 
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
