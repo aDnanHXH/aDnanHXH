@@ -1,96 +1,76 @@
 <h1 align="center">Adnan Mkahal</h1>
-<h3 align="center">Full Stack Web Developer | Computer Science</h3>
+<h3 align="center">Full-Stack Web Developer • Computer Science</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adnan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
+<hr/>
 
-### About Me
-- Bachelor of Computer Science — *Middle East University* (Expected Graduation: End of 2026)  
-  Previously studied two years at *Al Hussein Technical University*  
-- Currently focusing on **React.js framework**
-- Committed to continuous learning and improvement
+## 👤 About Me
+- B.Sc. Computer Science — <em>Middle East University</em> (Expected: <strong>End of 2026</strong>)  
+  Previously: two years at <em>Al Hussein Technical University</em>  
+- Currently focused on <strong>React.js</strong> and modern front-end patterns  
+- Committed to clean code, performance, and continuous learning
 
----
+<hr/>
 
-### Connect & Skills
+## 🌐 Connect & ⚡ Skills
 
 <table width="100%">
-<tr>
-<td align="center" width="35%" valign="top">
+  <tr>
+    <!-- Left: Connect -->
+    <td align="center" width="50%" valign="middle" style="border-right: 5px solid #0e75b6; padding: 20px;">
 
-<b>Connect</b>  
-<br><br>
+  <h3>🌐 Connect</h3>
 
-<a href="https://linkedin.com/in/adnan mkahal" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/><br>LinkedIn
-</a>
-<br><br>
-
-<a href="https://instagram.com/u6dln" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45"/><br>Instagram
-</a>
-<br><br>
-
-<a href="https://discord.gg/k3sm" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" height="45"/><br>Discord
-</a>
-<br><br>
-
-<a href="mailto:adnan.pls2003@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/><br>Email
-</a>
+  <p>
+    <a href="https://linkedin.com/in/adnan-mkahal" target="_blank" title="LinkedIn">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="64" style="margin: 10px;" alt="LinkedIn"/>
+    </a>
+    <a href="https://instagram.com/u6dln" target="_blank" title="Instagram">
+      <img src="https://skillicons.dev/icons?i=instagram" height="64" style="margin: 10px;" alt="Instagram"/>
+    </a>
+    <a href="https://discord.gg/k3sm" target="_blank" title="Discord">
+      <img src="https://skillicons.dev/icons?i=discord" height="64" style="margin: 10px;" alt="Discord"/>
+    </a>
+    <a href="mailto:adnan.pls2003@gmail.com" target="_blank" title="Email">
+      <img src="https://skillicons.dev/icons?i=gmail" height="64" style="margin: 10px;" alt="Email"/>
+    </a>
+  </p>
 
 </td>
-<td align="center" width="65%" valign="top">
 
-<b>Languages & Tools</b>  
-<br><br>
+<!-- Right: Skills -->
+<td align="center" width="50%" valign="middle" style="padding: 20px;">
 
-<!-- Frontend -->
-<sub><b>Frontend</b></sub>  
-<br>
-<img src="https://skillicons.dev/icons?i=html" height="45"/> 
-<img src="https://skillicons.dev/icons?i=css" height="45"/> 
-<img src="https://skillicons.dev/icons?i=js" height="45"/> 
-<img src="https://skillicons.dev/icons?i=react" height="45"/> 
-<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
-<br><br>
+  <h3>⚡ Skills</h3>
 
-<!-- Backend -->
-<sub><b>Backend</b></sub>  
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs" height="45"/> 
-<img src="https://skillicons.dev/icons?i=php" height="45"/> 
-<img src="https://skillicons.dev/icons?i=flask" height="45"/> 
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-<br><br>
+  <!-- Frontend -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="48" style="margin: 8px;" alt="Frontend: HTML, CSS, JS, React, Tailwind"/>
+  </p>
 
-<!-- CMS & Design -->
-<sub><b>CMS & Design</b></sub>  
-<br>
-<img src="https://skillicons.dev/icons?i=wordpress" height="45"/> 
-<img src="https://skillicons.dev/icons?i=figma" height="45"/>
-<br><br>
+  <!-- Backend -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,php,flask,mysql" height="48" style="margin: 8px;" alt="Backend: Node.js, PHP, Flask, MySQL"/>
+  </p>
 
-<!-- Core & Tools -->
-<sub><b>Core & Tools</b></sub>  
-<br>
-<img src="https://skillicons.dev/icons?i=git" height="45"/> 
-<img src="https://skillicons.dev/icons?i=linux" height="45"/> 
-<img src="https://skillicons.dev/icons?i=python" height="45"/> 
-<img src="https://skillicons.dev/icons?i=java" height="45"/> 
-<img src="https://skillicons.dev/icons?i=c" height="45"/> 
-<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+  <!-- CMS & Design -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=wordpress,figma" height="48" style="margin: 8px;" alt="CMS & Design: WordPress, Figma"/>
+  </p>
+
+  <!-- Core & Tools -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,linux,python,java,c,cpp" height="48" style="margin: 8px;" alt="Core & Tools: Git, Linux, Python, Java, C, C++"/>
+  </p>
 
 </td>
-</tr>
+  </tr>
 </table>
 
----
+<hr/>
 
-### Certifications
-
----
+## 🏅 Certifications
+<!-- Add your certifications here -->
