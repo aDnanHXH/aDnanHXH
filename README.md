@@ -1,5 +1,5 @@
 <h1 align="center">Adnan Mkahal</h1>
-<h3 align="center">Full Stack Web Developer | Computer Science Student</h3>
+<h3 align="center">Full Stack Web Developer | Computer Science</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adnan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -8,11 +8,10 @@
 ---
 
 ### About Me
-- Bachelor of Computer Science — *Middle East University* (Expected 2026)  
-- Full Stack Web Developer at **Zain Company**  
-- Focused on **React.js, Node.js, and modern web practices**  
-- Experience with **WordPress, PHP, and MySQL**  
-- Contact: **adnan.pls2003@gmail.com**
+- Bachelor of Computer Science — *Middle East University* (Expected Graduation: End of 2026)  
+  Previously studied two years at *Al Hussein Technical University*  
+- Currently focusing on **React.js framework**
+- Committed to continuous learning and improvement
 
 ---
 
