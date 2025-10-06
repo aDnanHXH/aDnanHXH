@@ -46,7 +46,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js" height="48" style="margin:10px;" />
     <img src="https://skillicons.dev/icons?i=php,flask,mysql" height="48" style="margin:10px;" />
     <img src="https://skillicons.dev/icons?i=wordpress,figma" height="48" style="margin:10px;" />
-    <img src="https://skillicons.dev/icons?i=git,linux,python,java,c,cpp" height="48" style="margin:10px;" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp" height="48" style="margin:10px;" />
   </p>
 
 </td>
