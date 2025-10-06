@@ -10,7 +10,7 @@
 ## About Me
 - B.Sc. Computer Science — <em>Middle East University</em> (Expected: <strong>End of 2026</strong>)  
   Previously: two years at <em>Al Hussein Technical University</em>  
-- Currently focused on <strong>React.js</strong> and modern front-end patterns  
+- Currently focused on <strong>React.js</strong>  
 - Committed to clean code, performance, and continuous learning
 
 <hr/>
